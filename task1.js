@@ -5,7 +5,7 @@ let userinfo = {
     ID: "75G73XL"
 };
 
-userinfo.age = "20";
+userinfo.age = "40";
 
 delete userinfo.birthday
 console.log(userinfo);
